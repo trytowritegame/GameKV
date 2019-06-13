@@ -17,3 +17,4 @@ function draw() {
 }
 
 draw()
+alert("Агаси чорт")
